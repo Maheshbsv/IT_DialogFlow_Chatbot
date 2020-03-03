@@ -1,0 +1,24 @@
+{
+  "name": "it_dialogflow_chatbot",
+  "version": "1.0.0",
+  "description": "Chatbot to create Service now ticket based on user input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maheshbsv/IT_DialogFlow_Chatbot.git"
+  },
+  "author": "Maheshbsv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maheshbsv/IT_DialogFlow_Chatbot/issues"
+  },
+  "homepage": "https://github.com/Maheshbsv/IT_DialogFlow_Chatbot#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.17.1",
+    "mocha": "^7.1.0"
+  }
+}
